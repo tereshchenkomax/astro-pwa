@@ -5,7 +5,7 @@ import type { ManifestOptions } from "vite-plugin-pwa"
  * Defines the default SEO configuration for the website.
  */
 export const seoConfig = {
-	baseURL: "https://example.com", // Change this to your production URL.
+	baseURL: "https://tereshchenkomax.github.io", // Change this to your production URL.
 	description:
 		"Astro PWA Starter is an opionated Astro starter for building robust static websites.", // Change this to be your website's description.
 	type: "website",
